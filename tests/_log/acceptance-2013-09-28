@@ -1,0 +1,46 @@
+[2013-09-28 07:22:05] WelcomeCept.php.INFO: am on page "/" [] []
+[2013-09-28 07:22:05] WelcomeCept.php.INFO: see "Laravel Test App" [] []
+[2013-09-28 07:22:05] WelcomeCept.php.INFO: PASSED [] []
+[2013-09-28 07:46:25] WelcomeCept.php.INFO: am on page "/" [] []
+[2013-09-28 07:46:25] WelcomeCept.php.INFO: see "Laravel Test App" [] []
+[2013-09-28 07:46:25] WelcomeCept.php.ALERT: Failed asserting that 
+--> Laravel 4 - Tutorial  :: Home body { padding-top: 60px; } Bootswatch Themes Default Amelia Cerulean Cosmo Cyborg Flatly Journal Readable Simplex Slate Spacelab United Help Blog Download bootstrap.min.css bootstrap.css variables.less bootswatch.less Built With Bootstrap WrapBootstrap      Titl
+[Content too long to display. See complete response in (('_log')) directory]
+--> contains "laravel test app". [] []
+[2013-09-28 07:46:25] WelcomeCept.php.INFO: # FAILED # [] []
+[2013-09-28 07:46:25] WelcomeCept.php.INFO: PASSED [] []
+[2013-09-28 07:47:23] WelcomeCept.php.INFO: am on page "/" [] []
+[2013-09-28 07:47:23] WelcomeCept.php.INFO: see "Laravel Test App" [] []
+[2013-09-28 07:47:23] WelcomeCept.php.INFO: PASSED [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: am on page "/" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: see "Laravel Test App" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: click "Events" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: see link "Create Event" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: see link "Create Event","/addEvent" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: click "Create Event" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: am on page "/addEvent" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: see "Create New Event" [] []
+[2013-09-28 08:03:45] WelcomeCept.php.ALERT: Failed asserting that 
+--> Laravel 4 - Tutorial  :: Home body { padding-top: 60px; } Laravel Test App Events Create Event Amelia Cerulean Cosmo Cyborg Flatly Journal Readable Simplex Slate Spacelab United Help Blog Download bootstrap.min.css bootstrap.css variables.less bootswatch.less Built With Bootstrap WrapBootstrap Cre
+[Content too long to display. See complete response in (('_log')) directory]
+--> contains "create new event". [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: # FAILED # [] []
+[2013-09-28 08:03:45] WelcomeCept.php.INFO: PASSED [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: am on page "/" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: see "Laravel Test App" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: click "Events" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: see link "Create Event" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: see link "Create Event","/addEvent" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: click "Create Event" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: am on page "/addEvent" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: see "Create New Event" [] []
+[2013-09-28 08:04:46] WelcomeCept.php.INFO: PASSED [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: am on page "/" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: see "Laravel Test App" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: click "Events" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: see link "Create Event" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: see link "Create Event","/addEvent" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: click "Create Event" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: am on page "/addEvent" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: see "Create New Event" [] []
+[2013-09-28 08:06:41] WelcomeCept.php.INFO: PASSED [] []
