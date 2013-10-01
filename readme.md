@@ -1,21 +1,23 @@
-## Laravel PHP Framework
+## WeekendAdda
 
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+Weekend adda is a open source application with Laravel4 and Codeception Testing framework. This application will allow any user to signup and login to the system. After signup he/she can create Adda (events) on a specific date along with a location. He/she can set the adda topics and invite friends from Facebook, twitter, google etc. He/she can share events url to Social medias. He/she can ask for fund using universal payment gateway like Paypal and Payza. User will get local payment gateway Like DBBL, Brac bank gateway as well. 
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+### Tools
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+1. Laravel 4 Framework
+2. Codeception Testing Framework
+3. Bootstrap 3 Response Support
+4. MySQL and MongoDB both integration (Plug and play)
 
-## Official Documentation
+### Features on development
+1. Signup and Login new user
+2. Create Events and generate public share URL
+3. Private Events Creation
+4. Ask for Gift/Fund/donation regarding a specific events
+5. Event Admin account details
+6. Share Events to public network (Facebook, Twitter, Google Plus etc. )
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+More features will be added soon.....
 
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+to join in development feel free to knock me at: masudiiuc@gmail.com
